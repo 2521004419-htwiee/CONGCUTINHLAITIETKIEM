@@ -9,7 +9,7 @@ st.set_page_config(
     layout="centered"
 )
 
-st.title("💰 Công Cụ Tính Lãi Tiết Kiệm")
+st.title("💰 Công Cụ Tính Lãi Tiết Kiệm - Đoàn Mai Hồng Trâm")
 st.write("Nhập thông tin tiền gửi của bạn bên dưới để xem dự tính lãi suất.")
 
 # --- PHẦN NHẬP DỮ LIỆU ---
